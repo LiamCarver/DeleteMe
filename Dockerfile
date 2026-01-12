@@ -4,4 +4,4 @@ WORKDIR /workspace
 
 COPY . .
 
-CMD ["node", "/app/src/server.js"]
+CMD ["node", "/app/build/server.js"]
