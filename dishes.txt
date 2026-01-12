@@ -1,0 +1,10 @@
+Spaghetti Carbonara - recipes/spaghetti-carbonara.txt
+Chicken Tikka Masala - recipes/chicken-tikka-masala.txt
+Vegetable Stir-Fry - recipes/vegetable-stir-fry.txt
+Beef Tacos - recipes/beef-tacos.txt
+Margherita Pizza - recipes/margherita-pizza.txt
+Greek Salad - recipes/greek-salad.txt
+Miso Ramen - recipes/miso-ramen.txt
+Pad Thai - recipes/pad-thai.txt
+Shakshuka - recipes/shakshuka.txt
+Banana Pancakes - recipes/banana-pancakes.txt
