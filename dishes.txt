@@ -1,0 +1,10 @@
+1. Spaghetti Bolognese - recipes/spaghetti-bolognese.txt
+2. Chicken Tikka Masala - recipes/chicken-tikka-masala.txt
+3. Vegetable Stir-Fry - recipes/vegetable-stir-fry.txt
+4. Beef Tacos - recipes/beef-tacos.txt
+5. Margherita Pizza - recipes/margherita-pizza.txt
+6. Lemon Herb Salmon - recipes/lemon-herb-salmon.txt
+7. Mushroom Risotto - recipes/mushroom-risotto.txt
+8. Chickpea Curry - recipes/chickpea-curry.txt
+9. Classic Caesar Salad - recipes/classic-caesar-salad.txt
+10. Blueberry Pancakes - recipes/blueberry-pancakes.txt
