@@ -1,4 +1,4 @@
-FROM local-io-mcp
+FROM node-dev-mcp
 
 WORKDIR /workspace
 
